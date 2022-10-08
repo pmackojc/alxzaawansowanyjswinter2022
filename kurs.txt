@@ -1,2 +1,3 @@
 To jest kurs ALX cokolwiek nowego aby sprawdzic ssh
-cos nowego do sprawdzenia
+cos nowego do sprawdzenia 
+znowu dodaje cos nowego mam nadzieje ze zadziała
