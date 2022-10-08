@@ -1,1 +1,2 @@
-To jest kurs ALX
+To jest kurs ALX cokolwiek nowego aby sprawdzic ssh
+cos nowego do sprawdzenia
