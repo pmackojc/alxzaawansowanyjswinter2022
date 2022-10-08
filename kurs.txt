@@ -1,3 +1,5 @@
 To jest kurs ALX cokolwiek nowego aby sprawdzic ssh
 cos nowego do sprawdzenia 
 znowu dodaje cos nowego mam nadzieje ze zadziała
+podejście 3 z wykorzystaniem Visual Studio code
+
